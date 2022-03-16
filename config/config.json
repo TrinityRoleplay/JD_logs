@@ -3,7 +3,7 @@
 
     "EnableAcFunctions": true,
 
-    "allLogs": true,
+    "allLogs": false,
     "postals": true,
     "weaponLog": true,
     "inlineField": true,
