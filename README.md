@@ -56,4 +56,4 @@
 ensure JD_logs
 ```
 
-### ❓ For more questions you can join the discord here: https://discord.gg/prefech
+### ❓ For more questions you can join the discord here: https://discord.gg/prefech -
